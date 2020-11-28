@@ -13,3 +13,6 @@ GET запрос - http://localhost:8080/stock/{ticker}, например, http:
 - Обновить информацию о компании по тикеру (PUT запрос).  
 Например, обновить информации о компании Microsoft можно через Chrome следующей командой:  
 `fetch('/stock/msft', {method: 'PUT', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({"ticker":"MSFT","name":"MICROSOFT CORP.","price":250,"ratioPE":35})}).then(console.log)`
+- Удалить информацию по компании (DELETE запрос).  
+Например, удалить информации о компании Microsoft можно через Chrome следующей командой:  
+`fetch('/stock/msft', {method: 'DELETE', headers: {'Content-Type': 'application/json'}}).then(console.log)`
