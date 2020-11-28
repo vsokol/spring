@@ -7,6 +7,8 @@
 Задача:
 - Создать простейший микросервис используя Spring Boot c REST API GET /greetings по иструкции https://spring.io/guides/gs/rest-service
 
+[Решение](https://github.com/vsokol/spring/tree/main/SpringBootRESTfulWebService)
+
 [к оглавлению](#readme)
 
 ### SpringBootRESTfulWebServiceWithAOP
@@ -14,6 +16,8 @@
 - Создать простейший микросервис с REST API GET /greetings. 
 - В микросервисе создать AOP-аспект для логирования входящих и исходящих параметров REST API.
 - Подключить аспект к контроллеру и продемонстрировать логирование через этот аспект.
+
+ [Решение](https://github.com/vsokol/spring/tree/main/SpringBootRESTfulWebServiceWithAOP)
 
 [к оглавлению](#readme)
 
