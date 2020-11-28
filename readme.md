@@ -1,7 +1,7 @@
 ## Изучение spring
-+ [StockMarket](readme.md#stockmarket)
++ [StockMarket](readme.md#03-stockmarket)
 
-### StockMarket
+### 03 - StockMarket
 Задача - разработать микросервис c RestController'ом содержащим методы обрабатывающие HTTP GET, POST, PUT, DELETE запросы.
 
 [к оглавлению](#readme)
