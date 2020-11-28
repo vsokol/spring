@@ -20,6 +20,7 @@
 ### StockMarket
 Задача:
 - Разработать микросервис c RestController'ом содержащим методы обрабатывающие HTTP GET, POST, PUT, DELETE запросы.
+
 [Решение](https://github.com/vsokol/spring/tree/main/StockMarket)
 
 [к оглавлению](#readme)
